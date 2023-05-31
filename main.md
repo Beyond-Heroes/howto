@@ -13,7 +13,7 @@
 
 ![grafik](https://github.com/Beyond-Heroes/howto/blob/main/config.png)
 - Now generate a new key pair and save public and private key!
-![grafik]([https://github.com/Beyond-Heroes/howto/blob/main/config.png](https://github.com/Beyond-Heroes/howto/blob/main/Config2.png))
+![grafik](https://github.com/Beyond-Heroes/howto/blob/main/Config2.png)
 - Copy the public key from the textbox and continue with "Add your key to the Gitea account"
 
 ### Add your key to the Gitea account
