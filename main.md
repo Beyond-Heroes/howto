@@ -29,7 +29,7 @@
  3. Open the context menu and select "Clone"
  ![grafik](https://github.com/Beyond-Heroes/howto/blob/main/clone.png)
  5. Paste the clone link from the website and select your private key
- ![grafik]([https://github.com/Beyond-Heroes/howto/blob/main/clone.png](https://github.com/Beyond-Heroes/howto/blob/main/clone2.png))
+ ![grafik](https://github.com/Beyond-Heroes/howto/blob/main/clone2.png)
  6. Clone time!
 
 # Sync with the remote repository
