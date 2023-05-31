@@ -29,4 +29,11 @@
  3. Open the context menu and select "Clone"
  ![grafik](https://github.com/Beyond-Heroes/howto/blob/main/clone.png)
  5. Paste the clone link from the website and select your private key
+ ![grafik]([https://github.com/Beyond-Heroes/howto/blob/main/clone.png](https://github.com/Beyond-Heroes/howto/blob/main/clone2.png))
  6. Clone time!
+
+# Sync with the remote repository
+See https://tortoisegit.org/docs/tortoisegit/tgit-dug-pull.html
+
+# Sending changes to the repository
+See https://tortoisegit.org/docs/tortoisegit/tgit-dug-commit.html and https://tortoisegit.org/docs/tortoisegit/tgit-dug-push.html
