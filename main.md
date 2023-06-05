@@ -28,7 +28,7 @@
  2. Copy the clone link (ssh one!)
  ```
  git@giteabh.srv-bw.beyond-heroes.com:BeyondHeroesGameDevelopment/Game.git
- ``
+ ```
  3. Open the context menu and select "Clone"
  ![grafik](https://github.com/Beyond-Heroes/howto/blob/main/clone.png)
  4. Paste the clone link from the website and select your private key
