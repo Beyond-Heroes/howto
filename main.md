@@ -1,9 +1,8 @@
-markdown: kramdown
 # Setting up GIT
 
 ## Requirements
- - Install [GIT](https://git-scm.com/download/win){:target="_blank"} on yur computer :-)
- - Optional: [Get a frontend](https://git-scm.com/downloads/guis){:target="_blank"} (We will use https://tortoisegit.org/download/ for this tutorial)
+ - Install <a href="https://git-scm.com/download/win" target="_blank">GIT</a> on yur computer :-)
+ - Optional: <a href="https://git-scm.com/downloads/guis" target="_blank">Get a frontend</a> (We will use https://tortoisegit.org/download/ for this tutorial)
  
 ## Configuration
 ### Generate a key pair
@@ -18,9 +17,9 @@ markdown: kramdown
 - Copy the public key from the textbox and continue with "Add your key to the Gitea account"
 
 ### Add your key to the Gitea account
- 1. Navihate to the [Gitea instance hosted by us](https://giteabh.srv-bw.beyond-heroes.com/){:target="_blank"}
+ 1. Navihate to the <a target="_blank" href="https://giteabh.srv-bw.beyond-heroes.com/">Gitea instance hosted by us</a>
  2. Login with your account
- 3. Navigate to [your key settings page](https://giteabh.srv-bw.beyond-heroes.com/user/settings/keys){:target="_blank"}
+ 3. Navigate to <a target="_blank" href="https://giteabh.srv-bw.beyond-heroes.com/user/settings/keys">your key settings page</a>
  4. Add your private key (you can find it inside the ```.pub``` file at ```%homedrive%%homepath%/.ssh/``` or you just copied it from the generator)
  5. Your access is now configured!
  
@@ -37,7 +36,7 @@ markdown: kramdown
  5. Clone time!
 
 # Sync with the remote repository
-See https://tortoisegit.org/docs/tortoisegit/tgit-dug-pull.html
+See <a target="_blank" href=">https://tortoisegit.org/docs/tortoisegit/tgit-dug-pull.html">LINK</a>
 
 # Sending changes to the repository
-See https://tortoisegit.org/docs/tortoisegit/tgit-dug-commit.html and https://tortoisegit.org/docs/tortoisegit/tgit-dug-push.html
+See <a target="_blank" href="https://tortoisegit.org/docs/tortoisegit/tgit-dug-commit.html">LINK</a> and <a target="_blank" href="https://tortoisegit.org/docs/tortoisegit/tgit-dug-push.html">LINK</a>
