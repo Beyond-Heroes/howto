@@ -1,8 +1,8 @@
 # Setting up GIT
 
 ## Requirements
- - Grab a copy of [GIT](https://git-scm.com/download/win)
- - Optional: [Get a frontend](https://git-scm.com/downloads/guis) (We will use https://tortoisegit.org/download/ for this tutorial)
+ - Install [GIT](https://git-scm.com/download/win){:target="_blank"} on yur computer :-)
+ - Optional: [Get a frontend](https://git-scm.com/downloads/guis){:target="_blank"} (We will use https://tortoisegit.org/download/ for this tutorial)
  
 ## Configuration
 ### Generate a key pair
@@ -17,20 +17,23 @@
 - Copy the public key from the textbox and continue with "Add your key to the Gitea account"
 
 ### Add your key to the Gitea account
- 1. Navihate to the [Gitea instance hosted by us](https://giteabh.srv-bw.beyond-heroes.com/)
+ 1. Navihate to the [Gitea instance hosted by us](https://giteabh.srv-bw.beyond-heroes.com/){:target="_blank"}
  2. Login with your account
- 3. Navigate to [your key settings page](https://giteabh.srv-bw.beyond-heroes.com/user/settings/keys)
+ 3. Navigate to [your key settings page](https://giteabh.srv-bw.beyond-heroes.com/user/settings/keys){:target="_blank"}
  4. Add your private key (you can find it inside the ```.pub``` file at ```%homedrive%%homepath%/.ssh/``` or you just copied it from the generator)
  5. Your access is now configured!
  
 ### Clone a project
  1. At the website navigate to the project of your choice
  2. Copy the clone link (ssh one!)
+ ```
+ git@giteabh.srv-bw.beyond-heroes.com:BeyondHeroesGameDevelopment/Game.git
+ ``
  3. Open the context menu and select "Clone"
  ![grafik](https://github.com/Beyond-Heroes/howto/blob/main/clone.png)
- 5. Paste the clone link from the website and select your private key
+ 4. Paste the clone link from the website and select your private key
  ![grafik](https://github.com/Beyond-Heroes/howto/blob/main/clone2.png)
- 6. Clone time!
+ 5. Clone time!
 
 # Sync with the remote repository
 See https://tortoisegit.org/docs/tortoisegit/tgit-dug-pull.html
