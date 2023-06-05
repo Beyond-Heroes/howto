@@ -17,9 +17,9 @@
 - Copy the public key from the textbox and continue with "Add your key to the Gitea account"
 
 ### Add your key to the Gitea account
- 1. Navihate to the [Gitea instance hosted by us](http://giteabh.srv-6cores.batiswar.fr/)
+ 1. Navihate to the [Gitea instance hosted by us](https://giteabh.srv-bw.beyond-heroes.com/)
  2. Login with your account
- 3. Navigate to [your key settings page](http://giteabh.srv-6cores.batiswar.fr/user/settings/keys)
+ 3. Navigate to [your key settings page](https://giteabh.srv-bw.beyond-heroes.com/user/settings/keys)
  4. Add your private key (you can find it inside the ```.pub``` file at ```%homedrive%%homepath%/.ssh/``` or you just copied it from the generator)
  5. Your access is now configured!
  
