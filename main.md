@@ -9,7 +9,7 @@
  - GIT authenticates using a private and a public key pair. The public part is known to our git server and the porivate key is *secret*. **Never give away your private key to anyone!**
 
 #### using tortoisegit
- - You will be asked to provide your name and a e-mail address at first run
+ - You will be asked to provide your name and an e-mail address at first run
 
 ![grafik](https://github.com/Beyond-Heroes/howto/blob/main/config.png)
 - Now generate a new key pair and save public and private key!
@@ -17,7 +17,7 @@
 - Copy the public key from the textbox and continue with "Add your key to the Gitea account"
 
 ### Add your key to the Gitea account
- 1. Navihate to the <a target="_blank" href="https://giteabh.srv-bw.beyond-heroes.com/">Gitea instance hosted by us</a>
+ 1. Navigate to the <a target="_blank" href="https://giteabh.srv-bw.beyond-heroes.com/">Gitea instance hosted by us</a>
  2. Login with your account
  3. Navigate to <a target="_blank" href="https://giteabh.srv-bw.beyond-heroes.com/user/settings/keys">your key settings page</a>
  4. Add your private key (you can find it inside the ```.pub``` file at ```%homedrive%%homepath%/.ssh/``` or you just copied it from the generator)
@@ -25,7 +25,8 @@
  
 ### Clone a project
  1. At the website navigate to the project of your choice
- 2. Copy the clone link (ssh one!)
+ 2. For our projects: Activate git-lfs by opening a bash window and execute ``` git lfs install ``` (see https://www.youtube.com/watch?v=09McJ2NL7YM)
+ 3. Copy the clone link (ssh one!)
  ```
  git@giteabh.srv-bw.beyond-heroes.com:BeyondHeroesGameDevelopment/Game.git
  ```
