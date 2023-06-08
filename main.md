@@ -37,7 +37,7 @@
  5. Clone time!
 
 # Sync with the remote repository
-See <a target="_blank" href=">https://tortoisegit.org/docs/tortoisegit/tgit-dug-pull.html">LINK</a>
+See <a target="_blank" href="https://tortoisegit.org/docs/tortoisegit/tgit-dug-pull.html">LINK</a>
 
 # Sending changes to the repository
 See <a target="_blank" href="https://tortoisegit.org/docs/tortoisegit/tgit-dug-commit.html">LINK</a> and <a target="_blank" href="https://tortoisegit.org/docs/tortoisegit/tgit-dug-push.html">LINK</a>
