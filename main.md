@@ -25,7 +25,7 @@
  
 ### Clone a project
  1. At the website navigate to the project of your choice
- 2. For our projects: Activate git-lfs by opening a bash window and execute ``` git lfs install ``` (see https://www.youtube.com/watch?v=09McJ2NL7YM)
+ 2. For our projects: Activate git-lfs by opening a bash window and execute ``` git lfs install ``` (see https://youtu.be/09McJ2NL7YM?t=325)
  3. Copy the clone link (ssh one!)
  ```
  git@giteabh.srv-bw.beyond-heroes.com:BeyondHeroesGameDevelopment/Game.git
